@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "BAFqjeA9/sCBsmYu1d2t+JoFtvcN/lXywqkpRbqIVETs0T+OaVWmVx7aHFkFt0bQfik+wOvRVuF9F8W4cBwfoA==",
+  "success": true,
+  "projectFilePath": "D:\\Code\\EntityFramework_official_samples\\Spatial\\Projections\\Projections.csproj",
+  "expectedPackageFiles": [
+    "D:\\.nugets\\nettopologysuite\\2.4.0\\nettopologysuite.2.4.0.nupkg.sha512",
+    "D:\\.nugets\\projnet\\2.0.0\\projnet.2.0.0.nupkg.sha512",
+    "D:\\.nugets\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "D:\\.nugets\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
